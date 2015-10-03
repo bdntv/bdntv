@@ -43,9 +43,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="BDN TV">
-            <info compressed="false">https://raw.githubusercontent.com/bdntv/bdntv/_zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/bdntv/bdntv/_zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/bdntv/bdntv/_zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/bdntv/bdntv/master/_zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/bdntv/bdntv/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/bdntv/bdntv/master/_zips/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
