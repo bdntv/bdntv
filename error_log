@@ -1,0 +1,607 @@
+[03-Oct-2015 14:20:09 America/Denver] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home1/bdncanad/public_html/bdntv/try.php on line 3
+[03-Oct-2015 14:20:16 America/Denver] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home1/bdncanad/public_html/bdntv/try.php on line 3
+[03-Oct-2015 14:20:36 America/Denver] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home1/bdncanad/public_html/bdntv/try.php on line 3
+[03-Oct-2015 14:35:28 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:35:28 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:35:28 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:10 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:10 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:10 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:10 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:10 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:10 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:12 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:12 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:12 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:13 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:13 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:13 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:19 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:19 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:19 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:19 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:19 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:19 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:20 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:20 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:21 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:21 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:45:22 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:45:22 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:14 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:14 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:15 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:15 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:16 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:16 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:17 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:17 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:18 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:18 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:18 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:55 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:55 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:55 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:55 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:55 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:55 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:56 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:56 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:57 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:57 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:58 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:58 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:46:59 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:46:59 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: xml in /home1/bdncanad/public_html/bdntv/try.php on line 6
+[03-Oct-2015 14:47:00 America/Denver] PHP Notice:  Undefined variable: curl in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:47:00 America/Denver] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try.php on line 7
+[03-Oct-2015 14:53:09 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/bdncanad/public_html/bdntv/test.php on line 7
+[03-Oct-2015 14:53:09 America/Denver] PHP Warning:  file_get_contents(http://bdncanada.com/bdntv/test.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home1/bdncanad/public_html/bdntv/try.php on line 14
+[03-Oct-2015 14:53:13 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/bdncanad/public_html/bdntv/test.php on line 7
+[03-Oct-2015 14:53:17 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/bdncanad/public_html/bdntv/test.php on line 7
+[03-Oct-2015 15:08:48 America/Denver] PHP Notice:  Undefined variable: results in /home1/bdncanad/public_html/bdntv/try2.php on line 8
+[03-Oct-2015 15:08:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try2.php on line 8
+[03-Oct-2015 15:09:09 America/Denver] PHP Notice:  Undefined variable: results in /home1/bdncanad/public_html/bdntv/try2.php on line 8
+[03-Oct-2015 15:09:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/bdncanad/public_html/bdntv/try2.php on line 8
+[03-Oct-2015 15:22:23 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:28:09 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:28:18 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:28:23 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:28:47 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:29:02 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:39:50 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:39:50 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:40:06 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:40:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:40:06 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:40:21 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:40:21 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:40:21 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:40:31 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:40:31 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:40:46 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:40:46 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:41:57 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:41:57 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:42:06 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:42:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:42:06 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:42:28 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:44:50 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:44:50 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 8
+[03-Oct-2015 15:44:53 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:44:53 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 8
+[03-Oct-2015 15:44:59 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:44:59 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 8
+[03-Oct-2015 15:45:14 America/Denver] PHP Notice:  Undefined index: CONTENT_TYPE in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:45:14 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 15:45:14 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 8
+[03-Oct-2015 15:45:29 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 8
+[03-Oct-2015 15:53:28 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:53:38 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:53:54 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:53:59 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:55:49 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:55:59 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:56:03 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 15:56:48 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:57:42 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:57:54 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 15:58:09 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 16:01:13 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 6
+[03-Oct-2015 16:01:57 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 6
+[03-Oct-2015 16:02:11 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 6
+[03-Oct-2015 16:02:50 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 6
+[03-Oct-2015 16:08:44 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:12:10 America/Denver] PHP Notice:  Undefined index: fruit in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:12:10 America/Denver] PHP Notice:  Undefined index: quantity in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 16:12:10 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:12:22 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:12:30 America/Denver] PHP Notice:  Undefined index: fruit in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:12:30 America/Denver] PHP Notice:  Undefined index: quantity in /home1/bdncanad/public_html/bdntv/test.php on line 5
+[03-Oct-2015 16:12:30 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:14:19 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:14:29 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:14:38 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 14
+[03-Oct-2015 16:18:30 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:18:42 America/Denver] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home1/bdncanad/public_html/bdntv/test.php on line 2
+[03-Oct-2015 16:18:42 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:18:50 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:19:47 America/Denver] PHP Notice:  Undefined index: api in /home1/bdncanad/public_html/bdntv/test.php on line 4
+[03-Oct-2015 16:29:27 America/Denver] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 16:30:58 America/Denver] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home1/bdncanad/public_html/bdntv/test.php on line 3
+[03-Oct-2015 16:51:20 America/Denver] PHP Warning:  simplexml_load_file(): http://bdncanada.com/asdfqwer/chan_library.xml:12: parser error : Extra content at the end of the document in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:20 America/Denver] PHP Warning:  simplexml_load_file(): &lt;item&gt;    in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:20 America/Denver] PHP Warning:  simplexml_load_file(): ^ in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:20 America/Denver] PHP Fatal error:  Call to a member function asXML() on a non-object in /home1/bdncanad/public_html/bdntv/livetv.php on line 9
+[03-Oct-2015 16:51:27 America/Denver] PHP Warning:  simplexml_load_file(): http://bdncanada.com/asdfqwer/chan_library.xml:12: parser error : Extra content at the end of the document in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:27 America/Denver] PHP Warning:  simplexml_load_file(): &lt;item&gt;    in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:27 America/Denver] PHP Warning:  simplexml_load_file(): ^ in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:51:27 America/Denver] PHP Fatal error:  Call to a member function asXML() on a non-object in /home1/bdncanad/public_html/bdntv/livetv.php on line 9
+[03-Oct-2015 16:53:14 America/Denver] PHP Warning:  simplexml_load_file(): http://bdncanada.com/asdfqwer/chan_library.xml:10: parser error : Extra content at the end of the document in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:53:14 America/Denver] PHP Warning:  simplexml_load_file(): &lt;ite#m&gt; in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:53:14 America/Denver] PHP Warning:  simplexml_load_file(): ^ in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:53:14 America/Denver] PHP Fatal error:  Call to a member function asXML() on a non-object in /home1/bdncanad/public_html/bdntv/livetv.php on line 9
+[03-Oct-2015 16:59:14 America/Denver] PHP Warning:  simplexml_load_file(): http://bdncanada.com/asdfqwer/chan_library.xml:10: parser error : Extra content at the end of the document in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:59:14 America/Denver] PHP Warning:  simplexml_load_file(): &lt;ite#m&gt; in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:59:14 America/Denver] PHP Warning:  simplexml_load_file(): ^ in /home1/bdncanad/public_html/bdntv/livetv.php on line 8
+[03-Oct-2015 16:59:14 America/Denver] PHP Fatal error:  Call to a member function asXML() on a non-object in /home1/bdncanad/public_html/bdntv/livetv.php on line 9
+[03-Oct-2015 17:52:44 America/Denver] PHP Notice:  Undefined index: url in /home1/bdncanad/public_html/bdntv/getxml.php on line 2
+[03-Oct-2015 17:52:44 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/bdncanad/public_html/bdntv/getxml.php on line 14
+[03-Oct-2015 17:52:57 America/Denver] PHP Notice:  Undefined index: url in /home1/bdncanad/public_html/bdntv/getxml.php on line 2
+[03-Oct-2015 17:52:57 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/bdncanad/public_html/bdntv/getxml.php on line 14
+[03-Oct-2015 17:53:16 America/Denver] PHP Warning:  file_get_contents(http://dexteriptv.com/live/tv/ent%dex.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/bdncanad/public_html/bdntv/getxml.php on line 14
+[03-Oct-2015 17:53:30 America/Denver] PHP Warning:  file_get_contents(http://dexteriptv.com/live/tv/ent%dex.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/bdncanad/public_html/bdntv/getxml.php on line 14
+[03-Oct-2015 17:54:12 America/Denver] PHP Warning:  file_get_contents(http://dexteriptv.com/live/tv/ent%dex.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/bdncanad/public_html/bdntv/getxml.php on line 14
+[03-Oct-2015 17:55:01 America/Denver] PHP Warning:  file_get_contents(http://dexteriptv.com/live/tv/ent%dex.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/bdncanad/public_html/bdntv/getxml.php on line 15
+[03-Oct-2015 17:56:11 America/Denver] PHP Warning:  : failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/bdncanad/public_html/bdntv/getxml.php on line 15
