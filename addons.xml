@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.bdntv"
        name="BDNTV"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="BDN Canada">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -24,7 +24,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Live Streams TV.</summary>
+    <summary>Live Streams TV</summary>
     <description>
 	[COLOR red]BDNTV Initial Release[/COLOR]
     </description>
