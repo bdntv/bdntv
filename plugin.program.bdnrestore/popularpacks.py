@@ -27,7 +27,7 @@ import downloader
 import time
 
 base         =  'http://totalxbmc.tv/totalrevolution/Addon_Packs/'
-ADDON        =  xbmcaddon.Addon(id='plugin.program.shadowbuilds')
+ADDON        =  xbmcaddon.Addon(id='plugin.program.bdnrestore')
 VERSION      =  "0.0.3"
 PATH         =  "Total Revolution"
 

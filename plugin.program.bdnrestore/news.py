@@ -30,8 +30,8 @@ import zipfile
 import ntpath
 
 ARTPATH      =  'http://totalxbmc.tv/totalrevolution/art/' + os.sep
-ADDON        =  xbmcaddon.Addon(id='plugin.program.shadowbuilds')
-AddonID      =  'plugin.program.shadowbuilds'
+ADDON        =  xbmcaddon.Addon(id='plugin.program.bdnrestore')
+AddonID      =  'plugin.program.bdnrestore'
 AddonTitle   =  "[COLOR=blue][B]T[/COLOR][COLOR=dodgerblue]R[/COLOR] [COLOR=white]Community Builds[/COLOR][/B]"
 zip          =  ADDON.getSetting('zip')
 localcopy    =  ADDON.getSetting('localcopy')

@@ -22,7 +22,7 @@ import xbmcgui
 import xbmcaddon
 import os
 
-ADDON        =  xbmcaddon.Addon(id='plugin.program.shadowbuilds')
+ADDON        =  xbmcaddon.Addon(id='plugin.program.bdnrestore')
 zip          =  ADDON.getSetting('zip')
 d            =  xbmcgui.Dialog()
 

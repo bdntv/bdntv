@@ -126,8 +126,8 @@ def Categories():
 	guisettings  =  ADDON.getSetting('guisettings')
 	adultbuilds  =  ADDON.getSetting('adultbuilds')
 	brettus = ADDON.getSetting('brettus')
-	if mainmenu == 'true':
-		extras.addDir('folder','BDN Builds','none', 'buildmenu', 'Build_Menu.png','','','')
+	#if mainmenu == 'true':
+	extras.addDir('folder','BDN Builds','none', 'buildmenu', 'Build_Menu.png','','','')
 	#if maintenance == 'true':
 	#	extras.addDir('folder','Maintenance','none', 'tools', 'Tools.png','','','')
 	
@@ -303,25 +303,27 @@ def OPEN_URL(url):
     return link  
     
 def wizard(name,url,description):
-    path = xbmc.translatePath(os.path.join('special://home/addons','packages'))
-    dp = xbmcgui.DialogProgress()
-    dp.create("BDN Restore ","Downloading ",'', 'Please Wait')
-    lib=os.path.join(path, name+'.zip')
-    try:
-       os.remove(lib)
-    except:
-       pass
-    downloader.download(url, lib, dp)
-    addonfolder = xbmc.translatePath(os.path.join('special://','home'))
-    time.sleep(2)
-    dp.update(0,"", "Extracting Zip Please Wait")
-    print '======================================='
-    print addonfolder
-    print '======================================='
-    extract.all(lib,addonfolder,dp)
-    dialog = xbmcgui.Dialog()
+    choice = xbmcgui.Dialog().yesno('Restore from BDN?', 'This will restore all your settings.','Are you sure?', nolabel='No',yeslabel='Yes')
+    if choice == 1:
+		path = xbmc.translatePath(os.path.join('special://home/addons','packages'))
+		dp = xbmcgui.DialogProgress()
+		dp.create("BDN Restore ","Downloading ",'', 'Please Wait')
+		lib=os.path.join(path, description+'.zip')
+		try:
+			os.remove(lib)
+		except:
+			pass
+		downloader.download(url, lib, dp)
+		addonfolder = xbmc.translatePath(os.path.join('special://','home'))
+		time.sleep(2)
+		dp.update(0,"", "Extracting Zip Please Wait")
+		print '======================================='
+		print addonfolder
+		print '======================================='
+		extract.all(lib,addonfolder,dp)
+		dialog = xbmcgui.Dialog()
 #    dialog.ok("DOWNLOAD COMPLETE", 'To ensure all changes are saved you must now close Kodi', 'to force close Kodi. Click ok,', 'DO NOT use the quit/exit options in Kodi.')
-    killxbmc()
+		killxbmc()
 	            
 def killxbmc():
     choice = xbmcgui.Dialog().yesno('Restore Complete', 'You need to restart KODI. Click yes to close. Then restart KODI.', 'Shut down Kodi?', nolabel='No, Cancel',yeslabel='Yes, Close')

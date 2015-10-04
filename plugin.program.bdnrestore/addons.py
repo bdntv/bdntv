@@ -28,7 +28,7 @@ import downloader
 import popularpacks
 from addon.common.addon import Addon
 
-ADDON_ID   = 'plugin.program.shadowbuilds'
+ADDON_ID   = 'plugin.program.bdnrestore'
 BASEURL    = 'http://addons.totalxbmc.com/'
 ADDON      =  xbmcaddon.Addon(id=ADDON_ID)
 HOME       =  ADDON.getAddonInfo('path')

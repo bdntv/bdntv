@@ -30,7 +30,7 @@ from xbmc import getCondVisibility as condition, translatePath as translate, log
 import xbmcaddon
 import xbmcgui
 
-addon = xbmcaddon.Addon(id='plugin.program.shadowbuilds')
+addon = xbmcaddon.Addon(id='plugin.program.bdnrestore')
 ADDON_TITLE = addon.getAddonInfo('name')
 ADDON_VERSION = addon.getAddonInfo('version')
 

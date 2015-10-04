@@ -30,8 +30,8 @@ import zipfile
 import ntpath
 
 ARTPATH      =  'http://shadowcrew.info/twins/Communtiy_Builds/art/' + os.sep
-ADDON        =  xbmcaddon.Addon(id='plugin.program.shadowbuilds')
-AddonID      =  'plugin.program.shadowbuilds'
+ADDON        =  xbmcaddon.Addon(id='plugin.program.bdnrestore')
+AddonID      =  'plugin.program.bdnrestore'
 AddonTitle   =  "[COLOR=white]Shadow Builds[/COLOR]"
 zip          =  ADDON.getSetting('zip')
 localcopy    =  ADDON.getSetting('localcopy')
@@ -130,7 +130,7 @@ def Archive_Tree(sourcefile, destfile, message_header, message1, message2, messa
             dp.update(int(progress),"Backing Up",'[COLOR yellow]%s[/COLOR]'%file, 'Please Wait')
             fn = os.path.join(base, file)
             if not 'temp' in dirs:
-                if not 'plugin.program.shadowbuilds' in dirs:
+                if not 'plugin.program.bdnrestore' in dirs:
                    import time
                    FORCE= '01/01/1980'
                    FILE_DATE=time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(fn)))
@@ -157,7 +157,7 @@ def Archive_File(sourcefile, destfile):
             dp.update(int(progress),"Backing Up",'[COLOR yellow]%s[/COLOR]'%file, 'Please Wait')
             fn = os.path.join(base, file)
             if not 'temp' in dirs:
-                if not 'plugin.program.shadowbuilds' in dirs:
+                if not 'plugin.program.bdnrestore' in dirs:
                    import time
                    FORCE= '01/01/1980'
                    FILE_DATE=time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(fn)))
@@ -230,9 +230,9 @@ def Community_Backup():
     if ( not vq ): return False, 0
     title = urllib.quote_plus(vq)
     backup_zip = xbmc.translatePath(os.path.join(fullbackuppath,title+'.zip'))
-    exclude_dirs_full =  ['plugin.program.shadowbuilds']
+    exclude_dirs_full =  ['plugin.program.bdnrestore']
     exclude_files_full = ["xbmc.log","xbmc.old.log","kodi.log","kodi.old.log",'.DS_Store','.setup_complete','XBMCHelper.conf']
-    exclude_dirs =  ['plugin.program.shadowbuilds', 'plugin.repository.shadowcrew','cache', 'system', 'Thumbnails', "peripheral_data",'library','keymaps']
+    exclude_dirs =  ['plugin.program.bdnrestore', 'plugin.repository.shadowcrew','cache', 'system', 'Thumbnails', "peripheral_data",'library','keymaps']
     exclude_files = ["xbmc.log","xbmc.old.log","kodi.log","kodi.old.log","Textures13.db",'.DS_Store','.setup_complete','XBMCHelper.conf', 'advancedsettings.xml']
     message_header = "Creating full backup of existing build"
     message_header2 = "Creating Community Build"
@@ -433,7 +433,7 @@ def Restore_Local_Community():
         if ( not vq ): return False, 0
         title = urllib.quote_plus(vq)
         backup_zip = xbmc.translatePath(os.path.join(mybackuppath,title+'.zip'))
-        exclude_dirs_full =  ['plugin.program.shadowbuilds']
+        exclude_dirs_full =  ['plugin.program.bdnrestore']
         exclude_files_full = ["xbmc.log","xbmc.old.log","kodi.log","kodi.old.log",'.DS_Store','.setup_complete','XBMCHelper.conf']
         message_header = "Creating full backup of existing build"
         message1 = "Archiving..."
@@ -598,7 +598,7 @@ def Restore_Zip_File(url):
                 dp.update(int(progress),"Backing Up",'[COLOR yellow]%s[/COLOR]'%file, 'Please Wait')
                 fn = os.path.join(base, file)
                 if not 'temp' in dirs:
-                    if not 'plugin.program.shadowbuilds' in dirs:
+                    if not 'plugin.program.bdnrestore' in dirs:
                        import time
                        FORCE= '01/01/1980'
                        FILE_DATE=time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(fn)))

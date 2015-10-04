@@ -13,7 +13,7 @@ import time
 import os
 import sys
 
-ADDON_ID   = 'plugin.program.shadowbuilds'
+ADDON_ID   = 'plugin.program.bdnrestore'
 ADDON      =  xbmcaddon.Addon(id=ADDON_ID)
 HOME       =  ADDON.getAddonInfo('path')
 ARTPATH    =  'http://totalxbmc.tv/totalrevolution/art/' + os.sep

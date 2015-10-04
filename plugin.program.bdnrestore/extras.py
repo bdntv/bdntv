@@ -36,7 +36,7 @@ import news
 from addon.common.addon import Addon
 from addon.common.net import Net
 
-AddonID    = 'plugin.program.shadowbuilds'
+AddonID    = 'plugin.program.bdnrestore'
 BASEURL    = 'http://shadowcrew.info'
 ADDON      =  xbmcaddon.Addon(id=AddonID)
 HOME       =  xbmc.translatePath('special://home/')
@@ -52,7 +52,7 @@ log_path   =  xbmc.translatePath('special://logpath/')
 skin       =  xbmc.getSkinDir()
 net        =  Net()
 notifyart  =  xbmc.translatePath(os.path.join(ADDONS,AddonID,'resources/'))
-EXCLUDES     =  ['plugin.program.shadowbuilds','script.module.addon.common','addon.common.addon']
+EXCLUDES     =  ['plugin.program.bdnrestore','script.module.addon.common','addon.common.addon']
 FANART       =  xbmc.translatePath(os.path.join(ADDONS,AddonID,'fanart.jpg'))
 reseller     =  ADDON.getSetting('reseller')
 resellername =  ADDON.getSetting('resellername')

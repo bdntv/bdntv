@@ -24,7 +24,7 @@ import shutil
 
 
 def resetAddon():
-    path = xbmc.translatePath('special://profile/addon_data/plugin.program.shadowbuilds')
+    path = xbmc.translatePath('special://profile/addon_data/plugin.program.bdnrestore')
     shutil.rmtree(path)
     
     d = xbmcgui.Dialog()
