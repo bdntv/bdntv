@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="BDN Support">
+		<setting id="customer" type="text" label="Customer:" default="" visible="True" />
+		<setting id="email" type="select" label="Contact Support" values="support@bdncanada.com" default="support@bdncanada.com" />
+		<setting id="token" type="text" visible="False" />
+	</category>
+</settings>
