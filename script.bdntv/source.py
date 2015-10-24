@@ -34,7 +34,7 @@ if not token and customer:
     ADDON.setSetting('token', token)
     urllib2.urlopen(str(MAINURL + 'addclient.php?customer=%s&token=%s' % (customer.replace(' ', '%20'),token)))
 	
-if not token:
+if not token or not customer:
     xbmc.executebuiltin("Skin.SetString(registered.bdn,nn)")
 
 class Channel(object):
