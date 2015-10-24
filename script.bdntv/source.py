@@ -1,3 +1,10 @@
+#**************************************************************************************
+#*   BDTV Script                                                                      *
+#*   Created by: Andrew Barnes                                                        *
+#*   Date: October/2015                                                               *
+#*                                                                                    *
+#**************************************************************************************
+
 import StringIO
 import os
 import threading
@@ -5,9 +12,6 @@ import datetime
 import time
 import urllib2
 from xml.etree import ElementTree
-import buggalo
-
-#from strings import *
 
 import xbmc
 import xbmcgui
@@ -23,21 +27,15 @@ ADDON = xbmcaddon.Addon(id = 'script.bdntv')
 MAINURL ='http://bdncanada.com/bdntv/query/'
 
 token = ADDON.getSetting('token')
+customer = ADDON.getSetting('customer')
 
-if not token:
+if not token and customer:
     token = (''.join(random.choice(string.ascii_uppercase) for i in range(12)))
     ADDON.setSetting('token', token)
-    customer = ADDON.getSetting('customer')
     urllib2.urlopen(str(MAINURL + 'addclient.php?customer=%s&token=%s' % (customer.replace(' ', '%20'),token)))
-
-#if not ADDON.getSetting('customer'):
-#    xbmcgui.Dialog().ok("BDN Register Account", 'Please enter your name','in the customer field','on the next screen.')
-#    xbmc.executebuiltin('Addon.OpenSettings(%s)' % 'script.bdntv')
-#    xbmc.executebuiltin('SetFocus(%i)' % 200)
-#    xbmc.executebuiltin('SetFocus(%i)' % 100) 
-  
-#SETTINGS_TO_CHECK = ['source', 'youseetv.category', 'xmltv.type', 'xmltv.file', 'xmltv.url', 'xmltv.logo.folder']
-
+	
+if not token:
+    xbmc.executebuiltin("Skin.SetString(registered.bdn,nn)")
 
 class Channel(object):
     def __init__(self, id, title, logo=None, streamUrl=None, visible=True, weight=-1):
@@ -120,10 +118,6 @@ class Database(object):
         self.updateFailed = False
         self.settingsChanged = None
         self.alreadyTriedUnlinking = False
-        #buggalo.addExtraData('source', self.source.KEY)
-        #for key in SETTINGS_TO_CHECK:
-        #    buggalo.addExtraData('setting: %s' % key, ADDON.getSetting(key))
-
         self.channelList = list()
 
         profilePath = xbmc.translatePath(ADDON.getAddonInfo('profile'))
@@ -162,7 +156,6 @@ class Database(object):
 
             except Exception:
                 print 'Database.eventLoop() >>>>>>>>>> exception!'
-                buggalo.onExceptionRaised()
 
         print 'Database.eventLoop() >>>>>>>>>> exiting...'
 
@@ -204,7 +197,6 @@ class Database(object):
                 c.close()
 
                 self._createTables()
-                #self.settingsChanged = self._wasSettingsChanged(ADDON)
                 break
 
             except sqlite3.OperationalError:
@@ -243,36 +235,6 @@ class Database(object):
             pass  # no transaction is active
         if self.conn:
             self.conn.close()
-
-    #def _wasSettingsChanged(self, addon):
-     #   settingsChanged = False
-     #   noRows = True
-     #   count = 0
-
-     #   c = self.conn.cursor()
-     #   c.execute('SELECT * FROM settings')
-     #   for row in c:
-     #       noRows = False
-     #       key = row['key']
-     #       if SETTINGS_TO_CHECK.count(key):
-     #           count += 1
-     #           if row['value'] != addon.getSetting(key):
-     #               settingsChanged = True
-
-      #  if count != len(SETTINGS_TO_CHECK):
-      #      settingsChanged = True
-
-      #  if settingsChanged or noRows:
-      #      for key in SETTINGS_TO_CHECK:
-      #          value = addon.getSetting(key).decode('utf-8', 'ignore')
-      #          c.execute('INSERT OR IGNORE INTO settings(key, value) VALUES (?, ?)', [key, value])
-      #          if not c.rowcount:
-      #              c.execute('UPDATE settings SET value=? WHERE key=?', [value, key])
-      #      self.conn.commit()
-
-       # c.close()
-      #  print 'Settings changed: ' + str(settingsChanged)
-      #  return settingsChanged
 
     def _isCacheExpired(self, date):
         if self.settingsChanged:
@@ -806,44 +768,6 @@ class Source(object):
             return True
         return False
 
-
-#class YouSeeTvSource(Source):
-#    KEY = 'youseetv'
-
-    #def __init__(self, addon):
-     #   self.date = datetime.datetime.today()
-      #  self.channelCategory = addon.getSetting('youseetv.category')
-       # self.ysApi = ysapi.YouSeeTVGuideApi()
-
-#    def getDataFromExternal(self, date, progress_callback=None):
-#        channels = self.ysApi.channelsInCategory(self.channelCategory)
-#        for idx, channel in enumerate(channels):
- #           c = Channel(id=channel['id'], title=channel['name'], logo=channel['logo'])
- #           yield c
-
-            #for program in self.ysApi.programs(c.id, tvdate=date):
-             #   description = program['description']
-              #  if description is None:
-               #     description = strings(NO_DESCRIPTION)
-
-                #imagePrefix = program['imageprefix']
-
-         #       p = Program(
-          #          c,
-           #         program['title'],
-            #        datetime.datetime.fromtimestamp(program['begin']),
-             #       datetime.datetime.fromtimestamp(program['end']),
-              #      description,
-               #     imagePrefix + program['images_sixteenbynine']['large'],
-                #    imagePrefix + program['images_sixteenbynine']['small'],
-      #          )
-       #         yield p
-
-        #    if progress_callback:
-         #       if not progress_callback(100.0 / len(channels) * idx):
-          #          raise SourceUpdateCanceledException()
-
-
 class XMLTVSource(Source):
     KEY = 'xmltv'
     TYPE_LOCAL_FILE = 0
@@ -852,8 +776,6 @@ class XMLTVSource(Source):
     def __init__(self, addon):
         self.logoFolder = MAINURL + 'logos/'
         self.xmltvType = int(0)
-        #self.xmltvFile = 'http://bdncanada.com/bdntv/query/basic.bdn'
-        #self.xmltvUrl = 'http://bdncanada.com/bdntv/query/basic.bdn'
         basePath = xbmc.translatePath(os.path.join('special://profile', 'addon_data', 'script.bdntv'))
         guideFile = os.path.join(basePath, 'guide.xml')
         f = open(guideFile, 'wb')
@@ -870,7 +792,6 @@ class XMLTVSource(Source):
             raise SourceNotConfiguredException()
 
     def getDataFromExternal(self, date, progress_callback=None):
-     #   if self.xmltvType == XMLTVSource.TYPE_LOCAL_FILE:
         basePath = xbmc.translatePath(os.path.join('special://profile', 'addon_data', 'script.bdntv'))
         guideFile = os.path.join(basePath, 'guide.xml')
         f = open(guideFile, 'wb')
@@ -882,14 +803,6 @@ class XMLTVSource(Source):
         f = FileWrapper(self.xmltvFile)
         context = ElementTree.iterparse(f, events=("start", "end"))
         size = f.size
-      #  else:
-      #  u = urllib2.urlopen(self.xmltvUrl, timeout=30)
-      #  xml = u.read()
-      #  u.close()
-
-      #  f = StringIO.StringIO(xml)
-      #  context = ElementTree.iterparse(f, events=("start", "end"))
-      #  size = len(xml)
 
         return self.parseXMLTV(context, f, size, self.logoFolder, progress_callback)
 
@@ -936,14 +849,8 @@ class XMLTVSource(Source):
                     logo = None
                     if logoFolder:
                         logoFile = os.path.join(logoFolder, title + '.png')
-                       # dialog = xbmcgui.Dialog()
-                       # dialog.ok(" logo title", str(title))
-                        #if xbmcvfs.exists(logoFile):
                         logo = logoFile.replace(' ', '%20')
-                    #if not logo:
-                     #   iconElement = elem.find("icon")
-                      #  if iconElement is not None:
-                       #     logo = iconElement.get("src")
+             
                     streamElement = elem.find("stream")
                     streamUrl = None
                     if streamElement is not None:

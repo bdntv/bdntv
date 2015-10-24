@@ -1,7 +1,11 @@
-import buggalo
-import gui
+#**************************************************************************************
+#*   BDTV Script                                                                      *
+#*   Created by: Andrew Barnes                                                        *
+#*   Date: October/2015                                                               *
+#*                                                                                    *
+#**************************************************************************************
 
-buggalo.SUBMIT_URL = 'http://tommy.winther.nu/exception/submit.php'
+import gui
 
 try:
     w = gui.TVGuide()
@@ -9,4 +13,7 @@ try:
     del w
 
 except Exception:
-    buggalo.onExceptionRaised()
+    import sys
+    import traceback as tb
+    (etype, value, traceback) = sys.exc_info()
+    tb.print_exception(etype, value, traceback)

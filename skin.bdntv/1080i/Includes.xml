@@ -1122,11 +1122,18 @@
       <onclick condition="Library.HasContent(music)">ActivateWindow(10501,"videodb://musicvideos/1")</onclick>
       <onclick condition="!Library.HasContent(music)">ActivateWindow(10502,"videodb://musicvideos/1")</onclick>
     </item>
-	<item id="41" description="BDN Update">
+	<item id="40" description="BDN Update">
 	  <visible>Container(300).HasFocus(10)</visible>
 	  <label>BDN Update</label>
       <onclick>ActivateWindow(10001,&quot;plugin://plugin.program.bdnrestore/&quot;,return)</onclick>
     </item>
+    <item id="41" description="Register">
+		<visible>Container(300).HasFocus(10)</visible>
+		<visible>!stringcompare(Skin.String(registered.bdn),yy)</visible>
+		<label>Register</label>
+        <onclick>Addon.OpenSettings(script.bdntv)</onclick>
+		<onclick>Skin.SetString(registered.bdn,yy)</onclick>
+	</item>
 	<item id="42" description="Appearance">
 		<visible>Container(300).HasFocus(10)</visible>
         <label>Addons</label>
@@ -1147,7 +1154,7 @@
 	<item id="45" description="Login">
 		<visible>Container(300).HasFocus(10)</visible>
         <label>Admin</label>
-        <onclick condition="stringcompare(Skin.String(ShowSettings.BDN),tt)">ActivateWindow(10001)</onclick>
+        <onclick condition="stringcompare(Skin.String(ShowSettings.BDN),tt)">DONOTHING</onclick>
 		<onclick condition="!stringcompare(Skin.String(ShowSettings.BDN),tt)">Skin.SetString(ShowSettings.BDN)</onclick>
 	</item>
 	<item id="50" description="Reload skin">
